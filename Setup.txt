@@ -1,0 +1,6 @@
+# vim: set fileencoding=utf-8
+# v.0.1.2.133 (Build 133)
+
+# Boot loader path. Default: backup of the Windows boot loader.
+boot=\EFI\HackBGRT\bootmgfw-original.efi
+
